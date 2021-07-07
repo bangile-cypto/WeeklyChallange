@@ -34,14 +34,6 @@ namespace WeeklyChallange
             Console.WriteLine("UPPER CASE LETTERS: " + count);
             Console.ReadLine();
 
-
-           /* if (numbers == 1234 || 4321) 
-            {
-                
-            }
-           */
-
-
             Console.ReadLine();
 
 
