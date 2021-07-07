@@ -36,6 +36,26 @@ namespace WeeklyChallange
 
             Console.ReadLine();
 
+            // Press "ENTER" in order for the program to continue
+
+            try
+            {
+                Console.WriteLine("Type digits here: ");
+                Console.ReadLine();
+                bool answer = true;
+                var x = 1234;
+
+                if (x == 1234)
+                {
+                    Console.WriteLine(answer);
+                }
+
+            }
+            catch
+            {
+                Console.WriteLine("you did not write 1234");
+            }
+            Console.ReadLine();
 
 
         }
